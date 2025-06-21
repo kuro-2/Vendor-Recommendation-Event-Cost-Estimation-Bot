@@ -44,13 +44,6 @@ During installation, check ✅ **“Add Python to PATH”**.
 
 ---
 
-### 2. Install Required Libraries
-
-Open your terminal and run:
-
-```bash
-pip install streamlit pandas numpy
-
 Place Files Together
 project_folder/
 ├─ streamlit_app.py
@@ -73,4 +66,14 @@ Numpy
 All data and logic is local — no cloud keys, no OpenAI tokens.
 
 Vendor data is mock-generated but realistic, sorted from lowest to highest price.
+
+---
+
+### 2. Install Required Libraries
+
+Open your terminal and run:
+
+```bash
+pip install streamlit pandas numpy
+
 
