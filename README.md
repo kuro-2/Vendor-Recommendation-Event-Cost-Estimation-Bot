@@ -30,7 +30,7 @@ A local, logic-driven AI assistant for event planning and vendor selection. Buil
 | File | Description |
 |------|-------------|
 | `streamlit_app.py` | Main app (includes both Assignment 1 & 2 logic) |
-| `final_vendor_data.csv` | Vendor database with 150 diverse, non-duplicate rows |
+| `vendor_data.csv` | Vendor database with 150 diverse, non-duplicate rows |
 | `README.md` | You're reading it |
 
 ---
